@@ -25,7 +25,7 @@ I am an undergraduate researcher in **Computer Engineering** at the University o
 My long-term interest lies in the intersection of **ML + Bio/Health**, including generative modeling, computational pathology, and spatial-omics representation learning.
 
 You can find my publications on  
-🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
+ **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
 
 ---
 
@@ -41,14 +41,14 @@ B.S. in Electrical & Computer Engineering
 ---
 
 <span class='anchor' id='interests'></span>
-# 🔬 Academic Interests
+# Academic Interests
 Machine Learning • Deep Learning • Computer Vision • Diffusion Models  
 Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
 
 ---
 
 <span class='anchor' id='publications'></span>
-# 📚 Publications  
+#  Publications  
 *(† indicates co-first authors)*
 
 1. **Xiaoyan Zhu, Ruchun Jia, Tingrui Zhang**, Song Yao.  
@@ -89,7 +89,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='research'></span>
-# 🧪 Research Experience
+#  Research Experience
 
 ## **University of Michigan – Research Assistant**  
 *Advisor: Asst. Prof. Cong Ma · 11/2024–Present*
@@ -132,7 +132,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='skills'></span>
-# 🛠 Skills
+#  Skills
 
 **Programming:** Python, C/C++, MATLAB, VHDL, Verilog  
 **ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
@@ -142,7 +142,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='honors'></span>
-# 🏆 Awards & Honors
+#  Awards & Honors
 
 - UMich Dean’s Honor List: *2025 Summer*, *2024 Fall*  
 - Distinguished Student Award (Top 10%) – 2024, 2023  
