@@ -137,6 +137,24 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# Navigation Bar Settings
+nav:
+  - name: "Homepage"
+    url: /
+  - name: "About Me"
+    url: /about/
+  - name: "News"
+    url: /news/
+  - name: "Publications"
+    url: /publications/
+  - name: "Honors and Awards"
+    url: /honors/
+  - name: "Educations"
+    url: /education/
+  - name: "Invited Talks"
+    url: /talks/
+  - name: "Internships"
+    url: /internships/
 
 
 # Plugins
