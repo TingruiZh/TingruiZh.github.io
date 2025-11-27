@@ -27,9 +27,9 @@ My long-term interest lies in the intersection of **ML + Bio/Health**, including
 You can find my publications on  
 🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
 
-
 ---
 
+<span class='anchor' id='education'></span>
 # 🎓 Education
 
 **University of Michigan, Ann Arbor** · *09/2024 – 06/2026 (Expected)*  
@@ -40,12 +40,14 @@ B.S. in Electrical & Computer Engineering
 
 ---
 
+<span class='anchor' id='interests'></span>
 # 🔬 Academic Interests
 Machine Learning • Deep Learning • Computer Vision • Diffusion Models  
 Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
 
 ---
 
+<span class='anchor' id='publications'></span>
 # 📚 Publications  
 *(† indicates co-first authors)*
 
@@ -86,6 +88,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 
 ---
 
+<span class='anchor' id='research'></span>
 # 🧪 Research Experience
 
 ## **University of Michigan – Research Assistant**  
@@ -128,6 +131,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 
 ---
 
+<span class='anchor' id='skills'></span>
 # 🛠 Skills
 
 **Programming:** Python, C/C++, MATLAB, VHDL, Verilog  
@@ -137,6 +141,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 
 ---
 
+<span class='anchor' id='honors'></span>
 # 🏆 Awards & Honors
 
 - UMich Dean’s Honor List: *2025 Summer*, *2024 Fall*  
@@ -148,8 +153,8 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 
 ---
 
+<span class='anchor' id='posters'></span>
 # 📌 Posters & Presentations
 - DCMB/CCMB Annual Retreat  
 - Michigan AI Symposium — *AI for Science*  
 - BGSG/OGPS Poster Session  
-
