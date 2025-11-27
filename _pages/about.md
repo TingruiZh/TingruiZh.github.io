@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 Hi, I'm **Tingrui Zhang (张霆睿)**  
+# 👋 Hi, I'm **Tingrui Zhang**  
 Phone: +1 734-913-3498 · Email: tingruiz@umich.edu · Ann Arbor, MI
 
 I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **machine learning, computer vision, diffusion models, and spatial/biomedical imaging**. I work with **Asst. Prof. Cong Ma** on scalable probabilistic models for spatial transcriptomics, and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
