@@ -142,19 +142,19 @@ nav:
   - name: "Homepage"
     url: /
   - name: "About Me"
-    url: /about/
+    url: /#about
   - name: "News"
-    url: /news/
+    url: /#news
   - name: "Publications"
-    url: /publications/
-  - name: "Honors and Awards"
-    url: /honors/
+    url: /#publications
+  - name: "Honors & Awards"
+    url: /#honors
   - name: "Educations"
-    url: /education/
+    url: /#education
   - name: "Invited Talks"
-    url: /talks/
+    url: /#talks
   - name: "Internships"
-    url: /internships/
+    url: /#internships
 
 
 # Plugins
