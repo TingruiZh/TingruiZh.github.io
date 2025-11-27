@@ -26,8 +26,6 @@ My long-term interest lies in the intersection of **ML + Bio/Health**, including
 
 You can find my publications on  
 🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
-or through citation badges:  
-<a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 ---
