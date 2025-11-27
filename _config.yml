@@ -1,69 +1,68 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
+# =========================================
+# BASIC SITE SETTINGS
+# =========================================
 title                    : "Tingrui Zhang"
-description              : "University of Michigan, Ann Arbor, MI - B.S. in Computer Engineering with math minor Sichuan University, Sichuan, China - B.S. in Electrical and Computer Engineering  "
+description              : "University of Michigan · Computer Engineering · Mathematics Minor"
 repository               : "TingruiZh/TingruiZh.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# Google Analytics (optional)
+google_analytics_id      :
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# SEO verification (optional)
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
-# Site Author
+
+# =========================================
+# AUTHOR INFORMATION (shown on homepage)
+# =========================================
 author:
   name             : "Tingrui Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Michigan, Ann Arbor"
-  location         : "MI, USA"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=kTUeIwoAAAAJ&hl=en"
+  bio              : "Undergraduate Researcher · University of Michigan"
+  location         : "Ann Arbor, MI, USA"
+  googlescholar    : "https://scholar.google.com/citations?user=kTUeIwoAAAAJ"
   email            : "tingruiz28@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "TingruiZh"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-0527-3872"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  linkedin         :
+  twitter          :
+  researchgate     :
+  uri              :
 
 
-# Reading Files
+# =========================================
+# SINGLE-PAGE NAVIGATION BAR CONFIG
+# =========================================
+nav:
+  - name: "Home"
+    url: "/#about"
+  - name: "Education"
+    url: "/#education"
+  - name: "Interests"
+    url: "/#interests"
+  - name: "Publications"
+    url: "/#publications"
+  - name: "Research"
+    url: "/#research"
+  - name: "Skills"
+    url: "/#skills"
+  - name: "Honors"
+    url: "/#honors"
+  - name: "Posters"
+    url: "/#posters"
+
+
+# =========================================
+# FILE HANDLING
+# =========================================
 include:
   - .htaccess
   - _pages
   - files
+
 exclude:
   - docs
   - google_scholar_crawler
@@ -91,22 +90,24 @@ exclude:
   - package.json
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# =========================================
+# MARKDOWN AND HTML SETTINGS
+# =========================================
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -117,9 +118,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
+
+# =========================================
+# DEFAULT PAGE SETTINGS
+# =========================================
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -128,43 +131,31 @@ defaults:
       author_profile: true
 
 
-# Sass/SCSS
+# =========================================
+# CSS / SASS
+# =========================================
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 
-# Outputting
+# =========================================
+# URL STRUCTURE + TIMEZONE
+# =========================================
 permalink: /:categories/:title/
-timezone: America/Detroit
-# Navigation Bar Settings
-nav:
-  - name: "Homepage"
-    url: /
-  - name: "About Me"
-    url: /#about
-  - name: "News"
-    url: /#news
-  - name: "Publications"
-    url: /#publications
-  - name: "Honors & Awards"
-    url: /#honors
-  - name: "Educations"
-    url: /#education
-  - name: "Invited Talks"
-    url: /#talks
-  - name: "Internships"
-    url: /#internships
+timezone: America/Detroit   # Michigan (Eastern Time)
 
 
-# Plugins
+# =========================================
+# JEKYLL PLUGINS
+# =========================================
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -173,8 +164,9 @@ whitelist:
   - jemoji
 
 
-# HTML Compression
-# - http://jch.penibelst.de/
+# =========================================
+# HTML COMPRESSION
+# =========================================
 compress_html:
   clippings: all
   ignore:
