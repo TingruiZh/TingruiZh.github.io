@@ -20,9 +20,9 @@ redirect_from:
 # 👋 Hi, I'm **Tingrui Zhang**  
 Phone: +1 734-913-3498 · Email: tingruiz@umich.edu · Ann Arbor, MI
 
-I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **machine learning, computer vision, diffusion models, and spatial/biomedical imaging**. I work with **Asst. Prof. Cong Ma** on scalable probabilistic models for spatial transcriptomics, and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
+I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **machine learning, computer vision, diffusion models, and spatial/biomedical/medical imaging**. I work with **Asst. Prof. Cong Ma** (Umich) on scalable probabilistic models for spatial transcriptomics, and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
 
-My long-term interest lies in the intersection of **ML + Bio/Health**, including generative modeling, computational pathology, and spatial-omics representation learning.
+My long-term interest lies in the intersection of **ML/DL/CV**, including generative modeling, computational pathology, and spatial-omics representation learning.
 
 You can find my publications on  
 🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
@@ -51,7 +51,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 # 📚 Publications  
 *(† indicates co-first authors)*
 
-1. **Xiaoyan Zhu, Ruchun Jia, Tingrui Zhang**, Song Yao.  
+1. Xiaoyan Zhu, Ruchun Jia, **Tingrui Zhang**, Song Yao.  
    *Research on Data Tampering Prevention Method for ATC Network Based on Zero Trust.*  
    **Computers, Materials & Continua**, 78(3), 2024, pp. 4363–4377.  
    <span class='show_paper_citations' data=''></span>
@@ -92,7 +92,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 # 🧪 Research Experience
 
 ## **University of Michigan – Research Assistant**  
-*Advisor: Asst. Prof. Cong Ma · 11/2024–Present*
+*Advisor: Prof. Cong Ma · 11/2024–Present*
 
 **Project: COMPOSITION – Scalable Probabilistic Modeling for Spatial Transcriptomics**  
 - Developed a probabilistic framework for reference-free inference of **cell types** and **spatial domains** in SRT data.  
@@ -102,7 +102,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 ## **Carnegie Mellon University – Research Intern**  
-*Advisor: Prof. Min Xu · 03/2024–Present*
+*Advisor: Prof. Min Xu · 03/2025–Present*
 
 **Project: Relation-Aware Text-to-Image Diffusion**  
 - Built a **multi-object, spatial-relation-aware diffusion pipeline** on top of Stable Diffusion.  
