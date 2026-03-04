@@ -20,7 +20,7 @@ redirect_from:
 # 👋 Hi, I'm **Tingrui Zhang**  
 Phone: +1 734-913-3498 · Email: tingruiz@umich.edu · Ann Arbor, MI
 
-I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **machine learning, computer vision, diffusion models, and spatial/biomedical/medical imaging**. I work with **Asst. Prof. Cong Ma** (Umich) on scalable probabilistic models for spatial transcriptomics, and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
+I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **Robotics and Embodied AI, Mobile Manipulation, Autonomous Exploration and Navigation, VLMs, Diffusion Model, Biomedical Imaging, etc.**. I work with **Asst. Prof. Cong Ma** (Umich) on scalable probabilistic models for spatial transcriptomics, with **Prof. Bernadette Bucher**(Umich) on HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
 
 My long-term interest lies in the intersection of **ML/DL/CV**, including generative modeling, computational pathology, and spatial-omics representation learning.
 
@@ -42,8 +42,7 @@ B.S. in Electrical & Computer Engineering
 
 <span class='anchor' id='interests'></span>
 # 🔬 Academic Interests
-Machine Learning • Deep Learning • Computer Vision • Diffusion Models  
-Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
+Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and Navigation • VLMs • Machine Learning • Deep Learning • Computer Vision • Diffusion Models • Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
 
 ---
 
@@ -92,6 +91,13 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 # 🧪 Research Experience
 
 ## **University of Michigan – Research Assistant**  
+*Advisor: Prof. Bernadette Bucher · 1/2026–Present*
+
+**Project: HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**  
+- Proposed HELIOS, a hierarchical scene representation for language-specified mobile manipulation in partially observed environments, integrating 2D semantic navigation maps with 3D Gaussian object representations.
+- Developed a multi-view observation fusion and search objective that balances exploration of uncertain regions with exploitation of semantic scene information for efficient target object discovery.
+- Achieved state-of-the-art results on the OVMM benchmark in Habitat and demonstrated real-world language-guided pick-and-place on a Spot robot using pretrained vision–language models without task-specific training.
+
 *Advisor: Prof. Cong Ma · 11/2024–Present*
 
 **Project: COMPOSITION – Scalable Probabilistic Modeling for Spatial Transcriptomics**  
