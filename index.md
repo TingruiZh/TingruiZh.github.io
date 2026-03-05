@@ -20,12 +20,12 @@ redirect_from:
 # 👋 Hi, I'm **Tingrui Zhang**  
 Phone: +1 734-913-3498 · Email: tingruiz@umich.edu · Ann Arbor, MI
 
-I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in Mathematics. My research focuses on **machine learning, computer vision, diffusion models, and spatial/biomedical imaging**. I work with **Asst. Prof. Cong Ma** on scalable probabilistic models for spatial transcriptomics, and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
+I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **Robotics and Embodied AI, Mobile Manipulation, Autonomous Exploration and Navigation, VLMs, Diffusion Model, Biomedical Imaging, etc.**. I work with **Asst. Prof. Cong Ma** (Umich) on scalable probabilistic models for spatial transcriptomics, with **Prof. Bernadette Bucher**(Umich) on HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
 
-My long-term interest lies in the intersection of **ML + Bio/Health**, including generative modeling, computational pathology, and spatial-omics representation learning.
+My long-term interest lies in the intersection of **ML/DL/CV**, including generative modeling, computational pathology, and spatial-omics representation learning.
 
 You can find my publications on  
- **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
+🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
 
 ---
 
@@ -41,17 +41,16 @@ B.S. in Electrical & Computer Engineering
 ---
 
 <span class='anchor' id='interests'></span>
-# Academic Interests
-Machine Learning • Deep Learning • Computer Vision • Diffusion Models  
-Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
+# 🔬 Academic Interests
+Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and Navigation • VLMs • Machine Learning • Deep Learning • Computer Vision • Diffusion Models • Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
 
 ---
 
 <span class='anchor' id='publications'></span>
-#  Publications  
+# 📚 Publications  
 *(† indicates co-first authors)*
 
-1. **Xiaoyan Zhu, Ruchun Jia, Tingrui Zhang**, Song Yao.  
+1. Xiaoyan Zhu, Ruchun Jia, **Tingrui Zhang**, Song Yao.  
    *Research on Data Tampering Prevention Method for ATC Network Based on Zero Trust.*  
    **Computers, Materials & Continua**, 78(3), 2024, pp. 4363–4377.  
    <span class='show_paper_citations' data=''></span>
@@ -89,10 +88,17 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='research'></span>
-#  Research Experience
+# 🧪 Research Experience
 
 ## **University of Michigan – Research Assistant**  
-*Advisor: Asst. Prof. Cong Ma · 11/2024–Present*
+*Advisor: Prof. Bernadette Bucher · 1/2026–Present*
+
+**Project: HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**  
+- Proposed HELIOS, a hierarchical scene representation for language-specified mobile manipulation in partially observed environments, integrating 2D semantic navigation maps with 3D Gaussian object representations.
+- Developed a multi-view observation fusion and search objective that balances exploration of uncertain regions with exploitation of semantic scene information for efficient target object discovery.
+- Achieved state-of-the-art results on the OVMM benchmark in Habitat and demonstrated real-world language-guided pick-and-place on a Spot robot using pretrained vision–language models without task-specific training.
+
+*Advisor: Prof. Cong Ma · 11/2024–Present*
 
 **Project: COMPOSITION – Scalable Probabilistic Modeling for Spatial Transcriptomics**  
 - Developed a probabilistic framework for reference-free inference of **cell types** and **spatial domains** in SRT data.  
@@ -102,7 +108,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 ## **Carnegie Mellon University – Research Intern**  
-*Advisor: Prof. Min Xu · 03/2024–Present*
+*Advisor: Prof. Min Xu · 03/2025–Present*
 
 **Project: Relation-Aware Text-to-Image Diffusion**  
 - Built a **multi-object, spatial-relation-aware diffusion pipeline** on top of Stable Diffusion.  
@@ -132,7 +138,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='skills'></span>
-#  Skills
+# 🛠 Skills
 
 **Programming:** Python, C/C++, MATLAB, VHDL, Verilog  
 **ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
@@ -142,7 +148,7 @@ Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Compu
 ---
 
 <span class='anchor' id='honors'></span>
-#  Awards & Honors
+# 🏆 Awards & Honors
 
 - UMich Dean’s Honor List: *2025 Summer*, *2024 Fall*  
 - Distinguished Student Award (Top 10%) – 2024, 2023  
