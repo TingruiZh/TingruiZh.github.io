@@ -150,7 +150,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 <span class='anchor' id='honors'></span>
 # 🏆 Awards & Honors
 
-- UMich Dean’s Honor List: *2025 Summer*, *2024 Fall*  
+- UMich Dean’s Honor List: *2025Winter* *2025 Summer*, *2024 Fall*  
 - Distinguished Student Award (Top 10%) – 2024, 2023  
 - First-Class Scholarship (Top 10%) – 2024  
 - 3rd Prize, National Smart Supply Chain Innovation Challenge – 2023  
