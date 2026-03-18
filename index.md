@@ -185,7 +185,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 [[Paper]](https://link.springer.com/article/10.1186/s12938-025-01462-w)
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
-    <img src="/images/endometrial_cancer.png" alt="Endometrial Cancer ML Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <img src="/images/endometrial_cancer.webp" alt="Endometrial Cancer ML Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
   </div>
   <div style="flex: 1;">
     <ul>
