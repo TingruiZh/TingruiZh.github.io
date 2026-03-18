@@ -147,7 +147,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
-    <img src="/images/SD.jpg" alt="Relation-Aware Diffusion Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <img src="/images/SD.png" alt="Relation-Aware Diffusion Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
     <!-- TODO: replace with actual image -->
   </div>
   <div style="flex: 1;">
@@ -167,7 +167,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
-    <img src="/images/nact_radiomics.png" alt="NACT Radiomics Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <img src="/images/overview.jpg" alt="NACT Radiomics Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
     <!-- TODO: replace with actual image -->
   </div>
   <div style="flex: 1;">
