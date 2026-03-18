@@ -115,9 +115,10 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
   </div>
 </div>
 
- **Project: COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics.**
-*Advisor: Prof. Cong Ma · 11/2024–Present*
 
+*Advisor: Prof. Cong Ma · 11/2024–Present*
+ **Project: COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics.**
+ [[Project Page]](https://github.com/CM-Compbio-Group/COMPOSITION)
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
     <img src="/images/composition.png" alt="COMPOSITION Overview" style="width: 100%; border-radius: 6px;"/>
