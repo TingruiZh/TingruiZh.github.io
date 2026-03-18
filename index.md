@@ -49,40 +49,40 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 <span class='anchor' id='publications'></span>
 # 📚 Publications  
 *(† indicates co-first authors)*
-
-1. Xiaoyan Zhu, Ruchun Jia, **Tingrui Zhang**, Song Yao.  
-   *Research on Data Tampering Prevention Method for ATC Network Based on Zero Trust.*  
-   **Computers, Materials & Continua**, 78(3), 2024, pp. 4363–4377.  
-   <span class='show_paper_citations' data=''></span>
-
-2. Rui Ye, ZeKun Jiang, Rong Shao, Qian Yan, Li-Juan Zhou, **Ting-Rui Zhang**, Ying-Chun Sun.  
-   *Tongue Imaging-Based Radiomics Tool for Diagnosis of Insomnia Degree.*  
-   **Medical Data Mining**, 2024.  
-   <span class='show_paper_citations' data=''></span>
-
-3. Wen Wen, **Tingrui Zhang**, Haina Zhao, Jingyan Liu, Heng Jiang, Yusheng He*, Zekun Jiang*.  
-   *Multimodal ML Model Enhances Benign–Malignant Differentiation of Hypervascular Thyroid Nodules.*  
-   **Gland Surgery**, 2025.  
-   <span class='show_paper_citations' data=''></span>
-
-4. **Tingrui Zhang†**, Honglin Wu†, Zekun Jiang, et al.  
-   *Machine Learning for Endometrial Cancer Diagnosis Using CT Imaging.*  
-   **Preprint**: https://doi.org/10.21203/rs.3.rs-6300206/v1  
-   <span class='show_paper_citations' data=''></span>
-
-5. Hexiao Huang†, **Tingrui Zhang†**, Haoyuan Hu†, Zekun Jiang†, et al.  
-   *A Robust Deep Learning PET/CT Biomarker for POD24 and Survival Risk Stratification in Follicular Lymphoma.*  
-   **Submitted to BMC**  
-   <span class='show_paper_citations' data=''></span>
-
-6. Jeongbin Park†, **Tingrui Zhang†**, Cong Ma†.  
+1. Jeongbin Park†, **Tingrui Zhang†**, Cong Ma†.  
    *COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics.*  
    **Submitted to RECOMB 2026**  
    <span class='show_paper_citations' data=''></span>
 
-7. Jeongbin Park†, **Tingrui Zhang†**, Cong Ma†.  
+2. Jeongbin Park†, **Tingrui Zhang†**, Cong Ma†.  
    *Scalable Cell Type and Spatial Domain Modeling using Topic Inference of Cancer Niches.*  
    **Submitted to AACR**  
+   <span class='show_paper_citations' data=''></span>
+
+3. **Tingrui Zhang†**, Honglin Wu†, Zekun Jiang, et al.  
+   *Machine Learning for Endometrial Cancer Diagnosis Using CT Imaging.*  
+   **Preprint**: https://doi.org/10.21203/rs.3.rs-6300206/v1  
+   <span class='show_paper_citations' data=''></span>
+
+
+4. Xiaoyan Zhu, Ruchun Jia, **Tingrui Zhang**, Song Yao.  
+   *Research on Data Tampering Prevention Method for ATC Network Based on Zero Trust.*  
+   **Computers, Materials & Continua**, 78(3), 2024, pp. 4363–4377.  
+   <span class='show_paper_citations' data=''></span>
+
+5. Rui Ye, ZeKun Jiang, Rong Shao, Qian Yan, Li-Juan Zhou, **Ting-Rui Zhang**, Ying-Chun Sun.  
+   *Tongue Imaging-Based Radiomics Tool for Diagnosis of Insomnia Degree.*  
+   **Medical Data Mining**, 2024.  
+   <span class='show_paper_citations' data=''></span>
+
+6. Wen Wen, **Tingrui Zhang**, Haina Zhao, Jingyan Liu, Heng Jiang, Yusheng He*, Zekun Jiang*.  
+   *Multimodal ML Model Enhances Benign–Malignant Differentiation of Hypervascular Thyroid Nodules.*  
+   **Gland Surgery**, 2025.  
+   <span class='show_paper_citations' data=''></span>
+
+7. Hexiao Huang†, **Tingrui Zhang†**, Haoyuan Hu†, Zekun Jiang†, et al.  
+   *A Robust Deep Learning PET/CT Biomarker for POD24 and Survival Risk Stratification in Follicular Lymphoma.*  
+   **Submitted to BMC**  
    <span class='show_paper_citations' data=''></span>
 
 ---
