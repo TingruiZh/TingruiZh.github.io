@@ -115,6 +115,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
   </div>
 </div>
 
+ **Project: COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics.**
 *Advisor: Prof. Cong Ma · 11/2024–Present*
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
@@ -127,6 +128,8 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
       <li>Designed a <strong>neural network equivalent</strong> to the probabilistic model for GPU-accelerated inference.</li>
       <li>Demonstrated the ability to compare microenvironments across tissues to reveal biological heterogeneity.</li>
     </ul>
+    <p>
+      <a href="https://github.com/CM-Compbio-Group/COMPOSITION">[Project Page]</a> &nbsp;
   </div>
 </div>
 
@@ -157,8 +160,19 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 - Achieved accurate classification of insomnia severity.
 
 ### *Project: Zero-Trust Data Tampering Prevention for ATC Networks* (03/2023–01/2024)  
-- Developed a zero-trust–based tampering prevention system integrating RDTP protocol + physical-layer authentication.  
-- Achieved **>99% tamper-proof success rate**.
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/zero_trust.png" alt="zero_trust Overview" style="width: 100%; border-radius: 6px;"/>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Developed a zero-trust–based tampering prevention system integrating RDTP protocol + physical-layer authentication. </li>
+      <li>Achieved <strong>>99% tamper-proof success rate</strong> </li>
+    </ul>
+    <p>
+      <a href="https://www.sciencedirect.com/org/science/article/pii/S1546221824003461">[Paper]</a> &nbsp;
+  </div>
+</div>
 
 ---
 
