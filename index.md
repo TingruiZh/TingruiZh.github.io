@@ -115,10 +115,13 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
   </div>
 </div>
 
+---
 
 *Advisor: Prof. Cong Ma · 11/2024–Present*
- **Project: COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics.**
- [[Project Page]](https://github.com/CM-Compbio-Group/COMPOSITION)
+
+**Project: COMPOSITION: Cell Type and Spatial Organization Modeling via Probabilistic Optimization of Spatially Informed Topics**  
+[[Project Page]](https://github.com/CM-Compbio-Group/COMPOSITION)
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
     <img src="/images/composition.png" alt="COMPOSITION Overview" style="width: 100%; border-radius: 6px;"/>
@@ -130,7 +133,8 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
       <li>Demonstrated the ability to compare microenvironments across tissues to reveal biological heterogeneity.</li>
     </ul>
     <p>
-      <a href="https://github.com/CM-Compbio-Group/COMPOSITION">[Project Page]</a> &nbsp;
+      <a href="https://github.com/CM-Compbio-Group/COMPOSITION">[Project Page]</a>
+    </p>
   </div>
 </div>
 
@@ -139,42 +143,99 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 ## **Carnegie Mellon University – Research Intern**  
 *Advisor: Prof. Min Xu · 03/2025–Present*
 
-**Project: Relation-Aware Text-to-Image Diffusion**  
-- Built a **multi-object, spatial-relation-aware diffusion pipeline** on top of Stable Diffusion.  
-- Added layout priors via **keypoint tokens + relation embeddings**.  
-- Designed **relation consistency losses** and **mask-guided attention control** to improve generation fidelity.
+**Project: Relation-Aware Text-to-Image Diffusion**
 
----
-
-## **West China Medical Sciences & Big Data Center – Research Intern**  
-### *Project: Hybrid Radiomics Framework for NACT Response Prediction* (09/2024–01/2025)  
-- Built a hybrid HCR + DLR radiomics pipeline for ESCC patient treatment response prediction.  
-- Designed a **Transformer fusion network (TFR-Net)** and integrated with AutoML for optimal model search.  
-- Validated across multi-center datasets with improved accuracy and generalizability.
-
-### *Project: Machine Learning-Assisted Diagnosis of Endometrial Cancer* (03/2023–11/2024)  
-- Led development of ML models combining **ITK-Snap**, U-Net, Logistic Regression, SVC, Random Forest, XGBoost, TabPFN, etc.  
-- Identified **Random Forest** as the best-performing classifier across metrics.
-
-### *Project: Tongue Radiomics for Insomnia Diagnosis* (03/2023–01/2024)  
-- Built a tongue-imaging-based radiomics tool using **PyRadiomics + U-Net + LASSO**.  
-- Achieved accurate classification of insomnia severity.
-
-### *Project: Zero-Trust Data Tampering Prevention for ATC Networks* (03/2023–01/2024)  
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 0 0 40%;">
-    <img src="/images/zero_trust.png" alt="zero_trust Overview" style="width: 100%; border-radius: 6px;"/>
+    <img src="/images/SD.jpg" alt="Relation-Aware Diffusion Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <!-- TODO: replace with actual image -->
   </div>
   <div style="flex: 1;">
     <ul>
-      <li>Developed a zero-trust–based tampering prevention system integrating RDTP protocol + physical-layer authentication. </li>
-      <li>Achieved <strong>>99% tamper-proof success rate</strong> </li>
+      <li>Built a <strong>multi-object, spatial-relation-aware diffusion pipeline</strong> on top of Stable Diffusion.</li>
+      <li>Added layout priors via <strong>keypoint tokens + relation embeddings</strong>.</li>
+      <li>Designed <strong>relation consistency losses</strong> and <strong>mask-guided attention control</strong> to improve generation fidelity.</li>
     </ul>
-    <p>
-      <a href="https://www.sciencedirect.com/org/science/article/pii/S1546221824003461">[Paper]</a> &nbsp;
   </div>
 </div>
 
+---
+
+## **West China Medical Sciences & Big Data Center – Research Intern**
+
+**Project: Hybrid Radiomics Framework for NACT Response Prediction** *(09/2024–01/2025)*
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/nact_radiomics.png" alt="NACT Radiomics Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <!-- TODO: replace with actual image -->
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Built a hybrid HCR + DLR radiomics pipeline for ESCC patient treatment response prediction.</li>
+      <li>Designed a <strong>Transformer fusion network (TFR-Net)</strong> and integrated with AutoML for optimal model search.</li>
+      <li>Validated across multi-center datasets with improved accuracy and generalizability.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+**Project: Machine Learning-Assisted Diagnosis of Endometrial Cancer** *(03/2023–11/2024)*
+[[Paper]](https://link.springer.com/article/10.1186/s12938-025-01462-w)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/endometrial_cancer.png" alt="Endometrial Cancer ML Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Led development of ML models combining <strong>ITK-Snap</strong>, U-Net, Logistic Regression, SVC, Random Forest, XGBoost, TabPFN, etc.</li>
+      <li>Identified <strong>Random Forest</strong> as the best-performing classifier across metrics.</li>
+    </ul>
+    <p>
+      <a href="https://link.springer.com/article/10.1186/s12938-025-01462-w">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+---
+
+**Project: Tongue Radiomics for Insomnia Diagnosis** *(03/2023–01/2024)*
+[[Paper]](https://www.tmrjournals.com/article.html?J_num=11&a_id=2958)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/tongue_radiomics.png" alt="Tongue Radiomics Overview" style="width: 100%; border-radius: 6px; background: #f0f0f0; min-height: 150px;"/>
+    <!-- TODO: replace with actual image -->
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Built a tongue-imaging-based radiomics tool using <strong>PyRadiomics + U-Net + LASSO</strong>.</li>
+      <li>Achieved accurate classification of insomnia severity.</li>
+    </ul>
+    <p>
+      <a href="https://www.tmrjournals.com/article.html?J_num=11&a_id=2958">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+---
+
+**Project: Zero-Trust Data Tampering Prevention for ATC Networks** *(03/2023–01/2024)*
+[[Paper]](https://www.sciencedirect.com/org/science/article/pii/S1546221824003461)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/zero_trust.png" alt="Zero Trust Overview" style="width: 100%; border-radius: 6px;"/>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Developed a zero-trust–based tampering prevention system integrating RDTP protocol + physical-layer authentication.</li>
+      <li>Achieved <strong>>99% tamper-proof success rate</strong>.</li>
+    </ul>
+    <p>
+      <a href="https://www.sciencedirect.com/org/science/article/pii/S1546221824003461">[Paper]</a>
+    </p>
+  </div>
+</div>
 ---
 
 <span class='anchor' id='skills'></span>
