@@ -94,16 +94,41 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 *Advisor: Prof. Bernadette Bucher · 1/2026–Present*
 
 **Project: HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**  
-- Proposed HELIOS, a hierarchical scene representation for language-specified mobile manipulation in partially observed environments, integrating 2D semantic navigation maps with 3D Gaussian object representations.
-- Developed a multi-view observation fusion and search objective that balances exploration of uncertain regions with exploitation of semantic scene information for efficient target object discovery.
-- Achieved state-of-the-art results on the OVMM benchmark in Habitat and demonstrated real-world language-guided pick-and-place on a Spot robot using pretrained vision–language models without task-specific training.
+[[Project Page]](https://helios-robot-perception.github.io/) [[arXiv]](https://arxiv.org/abs/2509.22498) [[Code]](https://github.com/m-and-m-lab/helios)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/2025_helios.png" alt="HELIOS Overview" style="width: 100%; border-radius: 6px;"/>
+  </div>
+  <div style="flex: 1;">
+    <p>Proposed <strong>HELIOS</strong>, a hierarchical scene representation for language-specified mobile manipulation in partially observed environments, integrating 2D semantic navigation maps with 3D Gaussian object representations.</p>
+    <ul>
+      <li>Developed multi-view observation fusion and search objective balancing exploration with exploitation.</li>
+      <li>Achieved state-of-the-art on <strong>OVMM benchmark</strong> in Habitat.</li>
+      <li>Demonstrated real-world language-guided pick-and-place on a <strong>Spot robot</strong>.</li>
+    </ul>
+    <p>
+      <a href="https://helios-robot-perception.github.io/">[Project Page]</a> &nbsp;
+      <a href="https://arxiv.org/abs/2509.22498">[arXiv]</a> &nbsp;
+      <a href="https://github.com/m-and-m-lab/helios">[Code]</a>
+    </p>
+  </div>
+</div>
 
 *Advisor: Prof. Cong Ma · 11/2024–Present*
 
-**Project: COMPOSITION – Scalable Probabilistic Modeling for Spatial Transcriptomics**  
-- Developed a probabilistic framework for reference-free inference of **cell types** and **spatial domains** in SRT data.  
-- Designed a **neural network equivalent** to the probabilistic model for GPU-accelerated inference.  
-- Demonstrated the ability to compare microenvironments across tissues to reveal biological heterogeneity.
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 0 0 40%;">
+    <img src="/images/composition.png" alt="COMPOSITION Overview" style="width: 100%; border-radius: 6px;"/>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Developed a probabilistic framework for reference-free inference of <strong>cell types</strong> and <strong>spatial domains</strong> in SRT data.</li>
+      <li>Designed a <strong>neural network equivalent</strong> to the probabilistic model for GPU-accelerated inference.</li>
+      <li>Demonstrated the ability to compare microenvironments across tissues to reveal biological heterogeneity.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
