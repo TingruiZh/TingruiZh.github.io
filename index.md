@@ -32,11 +32,9 @@ You can find my publications on
 <span class='anchor' id='education'></span>
 # 🎓 Education
 
-**University of Michigan, Ann Arbor** · *09/2024 – 06/2026 (Expected)*  
+**University of Michigan, Ann Arbor** · *09/2022 – 06/2026 (Expected)*  
 **B.S. in Computer Engineering, Minor in Mathematics (4.0)**
 
-**Sichuan University, China** · *09/2022 – 07/2024*  
-B.S. in Electrical & Computer Engineering
 
 ---
 
