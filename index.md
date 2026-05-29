@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi, I'm **Tingrui Zhang**  
-· Email: tingruiz@umich.edu · Ann Arbor, MI
+· Email: tingrui2@andrew.cmu.edu · Pittsburgh, PA
 
-I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, minoring in **Mathematics (4.0 GPA)**. My research focuses on **Robotics and Embodied AI, Mobile Manipulation, Autonomous Exploration and Navigation, VLMs, Diffusion Model, Biomedical Imaging, etc.**. I work with **Asst. Prof. Cong Ma** (Umich) on scalable probabilistic models for spatial transcriptomics, with **Prof. Bernadette Bucher**(Umich) on HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes and with **Prof. Min Xu** (CMU) on spatial-relation-aware diffusion models.
+I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, with a minor in **Mathematics (4.0 GPA)**. During my master’s studies, I will work with **Prof. Matthew Travers** on robotic manipulation for autonomous server disassembly, exploring perception, imitation learning, diffusion policies, and long-horizon planning for contact-rich tasks. My broader research interests include **Robotics and Embodied AI, Mobile Manipulation, Autonomous Exploration and Navigation, Vision-Language Models (VLMs), Diffusion Models, and Biomedical Imaging**. Previously, I worked with **Asst. Prof. Cong Ma** at the University of Michigan on scalable probabilistic models for spatial transcriptomics, with **Prof. Bernadette Bucher** at the University of Michigan on **HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**, and with **Prof. Min Xu** at Carnegie Mellon University on spatial-relation-aware diffusion models.
 
-My long-term interest lies in the intersection of **ML/DL/CV**, including generative modeling, computational pathology, and spatial-omics representation learning.
+My long-term research interests lie at the intersection of **Machine Learning, Deep Learning, and Computer Vision**, spanning both **Embodied AI for intelligent robotic systems** and **AI-driven biomedical discovery**, including robotic manipulation, generative modeling, computational pathology, and spatial-omics representation learning.
 
 You can find my publications on  
 🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
@@ -31,8 +31,10 @@ You can find my publications on
 
 <span class='anchor' id='education'></span>
 # 🎓 Education
+**Carnegie Mellon University** · 08/2026 – Present
+**M.S. in AIE-ECE**
 
-**University of Michigan, Ann Arbor** · *09/2022 – 06/2026 (Expected)*  
+**University of Michigan, Ann Arbor** · *09/2022 – 05/2026   
 **B.S. in Computer Engineering, Minor in Mathematics (4.0)**
 
 
@@ -40,7 +42,9 @@ You can find my publications on
 
 <span class='anchor' id='interests'></span>
 # 🔬 Academic Interests
-Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and Navigation • VLMs • Machine Learning • Deep Learning • Computer Vision • Diffusion Models • Biomedical & Spatial Imaging • Radiomics • Spatial Transcriptomics • Computational Biology  
+**Robotics & Embodied AI**: Mobile Manipulation • Autonomous Exploration and Navigation • Vision-Language Models (VLMs) • Diffusion Models • Computer Vision
+**AI for Biomedical Discovery**: Biomedical Imaging • Radiomics • Spatial Transcriptomics • Computational Biology • Spatial-Omics Representation Learning
+**Foundations**: Machine Learning • Deep Learning • Generative Modeling
 
 ---
 
@@ -54,7 +58,7 @@ Robotics and Embodied AI • Mobile Manipulation • Autonomous Exploration and 
 
 2. Jeongbin Park†, **Tingrui Zhang†**, Cong Ma†.  
    *Scalable Cell Type and Spatial Domain Modeling using Topic Inference of Cancer Niches.*  
-   **Submitted to AACR**  
+   **Presented at the American Association for Cancer Research (AACR) Annual Meeting**  
    <span class='show_paper_citations' data=''></span>
 
 3. **Tingrui Zhang†**, Honglin Wu†, Zekun Jiang, et al.  
