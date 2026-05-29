@@ -2,7 +2,7 @@
 # BASIC SITE SETTINGS
 # =========================================
 title                    : "Tingrui Zhang"
-description              : "University of Michigan · Computer Engineering · Mathematics Minor"
+description              : "Carnegie Mellon University, Pittsburgh · MS AIE-ECE"
 repository               : "TingruiZh/TingruiZh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :
 author:
   name             : "Tingrui Zhang"
   avatar           : "images/Profile.png"
-  bio              : "Undergraduate Researcher · University of Michigan"
-  location         : "Ann Arbor, MI, USA"
+  bio              : "Master Researcher · Carnegie Mellon University"
+  location         : "Pittsburgh, PA, USA"
   googlescholar    : "https://scholar.google.com/citations?user=kTUeIwoAAAAJ"
   email            : "tingruiz28@gmail.com"
   github           : "TingruiZh"
