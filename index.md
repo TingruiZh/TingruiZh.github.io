@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi, I'm **Tingrui Zhang**  
-· Email: tingrui2@andrew.cmu.edu · Pittsburgh, PA
+· Email: tingrui2 [at] andrew.cmu.edu · Pittsburgh, PA
 
 I am an undergraduate researcher in **Computer Engineering** at the University of Michigan, with a minor in **Mathematics (4.0 GPA)**. During my master’s studies, I will work with **Prof. Matthew Travers** on robotic manipulation for autonomous server disassembly, exploring perception, imitation learning, diffusion policies, and long-horizon planning for contact-rich tasks. My broader research interests include **Robotics and Embodied AI, Mobile Manipulation, Autonomous Exploration and Navigation, Vision-Language Models (VLMs), Diffusion Models, and Biomedical Imaging**. Previously, I worked with **Asst. Prof. Cong Ma** at the University of Michigan on scalable probabilistic models for spatial transcriptomics, with **Prof. Bernadette Bucher** at the University of Michigan on **HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**, and with **Prof. Min Xu** at Carnegie Mellon University on spatial-relation-aware diffusion models.
 
