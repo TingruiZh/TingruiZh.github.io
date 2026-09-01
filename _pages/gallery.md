@@ -147,12 +147,12 @@ A few snapshots from poster sessions, lab meetings, and other milestones along t
   <button class="gallery-arrow" data-target="carousel-lab" data-dir="prev" aria-label="Scroll left">‹</button>
   <div class="carousel-track" id="carousel-lab">
     <div class="photo-card">
-      <img src="/images/gallery/mattlab-photo.jpg" alt="Travers Lab (CMU)">
-      <div class="photo-caption">Travers Lab, CMU</div>
+      <img src="/images/gallery/mattlab-photo.jpg" alt="Mattlab (CMU)">
+      <div class="photo-caption">Mattlab, CMU</div>
     </div>
     <div class="photo-card">
-      <img src="/images/gallery/mattlab-lunch.jpg" alt="Travers Lab lunch (CMU)">
-      <div class="photo-caption">Travers Lab lunch, CMU</div>
+      <img src="/images/gallery/mattlab-lunch.jpg" alt="Mattlab lunch (CMU)">
+      <div class="photo-caption">Mattlab lunch, CMU</div>
     </div>
     <div class="photo-card">
       <img src="/images/gallery/mm-lab-photo.jpg" alt="M&amp;M Lab (Umich)">
