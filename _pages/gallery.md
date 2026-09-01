@@ -128,11 +128,11 @@ A few snapshots from poster sessions, lab meetings, and other milestones along t
       <div class="photo-caption">Poster session Q&amp;A</div>
     </div>
     <div class="photo-card">
-      <img src="/images/gallery/postersession-3.jpg" alt="Poster session">
+      <img src="/images/gallery/postersession-4.jpg" alt="Poster session">
       <div class="photo-caption">Poster session</div>
     </div>
     <div class="photo-card">
-      <img src="/images/gallery/postersession-4.jpg" alt="Poster session">
+      <img src="/images/gallery/postersession-3.jpg" alt="Poster session">
       <div class="photo-caption">Poster session</div>
     </div>
   </div>
