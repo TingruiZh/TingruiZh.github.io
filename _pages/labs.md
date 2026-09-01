@@ -35,7 +35,7 @@ author_profile: true
 <h2>🟢 Current Lab</h2>
 
 <div class="lab-card">
-  <div class="lab-name">MATLAB (Travers Lab)</div>
+  <div class="lab-name">Mattlab (Travers Lab)</div>
   <div class="lab-meta">Prof. Matthew Travers · Carnegie Mellon University</div>
   <div class="lab-role">Robotic manipulation for autonomous server disassembly — perception, imitation learning, diffusion policies, and long-horizon planning for contact-rich tasks.</div>
 </div>
