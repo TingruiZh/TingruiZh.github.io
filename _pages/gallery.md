@@ -70,6 +70,45 @@ A few snapshots from poster sessions, lab meetings, and other milestones along t
   color: inherit;
 }
 .gallery-arrow:hover { background: rgba(0,0,0,0.06); }
+
+#carousel-lab img,
+#carousel-milestones img {
+  pointer-events: auto;
+  cursor: zoom-in;
+}
+
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+}
+.lightbox-overlay.open { display: flex; }
+.lightbox-overlay img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 6px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+}
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 28px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  font-size: 1.4em;
+  line-height: 1;
+  cursor: pointer;
+}
+.lightbox-close:hover { background: rgba(255,255,255,0.3); }
 </style>
 
 ---
@@ -159,16 +198,43 @@ A few snapshots from poster sessions, lab meetings, and other milestones along t
 </div>
 </div>
 
+<div class="lightbox-overlay" id="lightbox-overlay">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Close">×</button>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
 <script>
 document.addEventListener('click', function (e) {
   var btn = e.target.closest('.gallery-arrow');
-  if (!btn) return;
-  var track = document.getElementById(btn.getAttribute('data-target'));
-  if (!track) return;
-  var amount = track.clientWidth * 0.8;
-  track.scrollBy({
-    left: btn.getAttribute('data-dir') === 'prev' ? -amount : amount,
-    behavior: 'smooth'
-  });
+  if (btn) {
+    var track = document.getElementById(btn.getAttribute('data-target'));
+    if (track) {
+      var amount = track.clientWidth * 0.8;
+      track.scrollBy({
+        left: btn.getAttribute('data-dir') === 'prev' ? -amount : amount,
+        behavior: 'smooth'
+      });
+    }
+    return;
+  }
+
+  var overlay = document.getElementById('lightbox-overlay');
+  var zoomImg = e.target.closest('#carousel-lab img, #carousel-milestones img');
+  if (zoomImg) {
+    document.getElementById('lightbox-img').src = zoomImg.src;
+    document.getElementById('lightbox-img').alt = zoomImg.alt;
+    overlay.classList.add('open');
+    return;
+  }
+
+  if (e.target === overlay || e.target.id === 'lightbox-close') {
+    overlay.classList.remove('open');
+  }
+});
+
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape') {
+    document.getElementById('lightbox-overlay').classList.remove('open');
+  }
 });
 </script>
