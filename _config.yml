@@ -53,6 +53,10 @@ nav:
     url: "/#honors"
   - name: "Posters"
     url: "/#posters"
+  - name: "Labs"
+    url: "/labs/"
+  - name: "Gallery"
+    url: "/gallery/"
 
 
 # =========================================

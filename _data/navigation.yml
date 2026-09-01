@@ -16,3 +16,7 @@ main:
     url: "/#honors"
   - title: "Posters"
     url: "/#posters"
+  - title: "Labs"
+    url: "/labs/"
+  - title: "Gallery"
+    url: "/gallery/"

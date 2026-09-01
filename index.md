@@ -27,6 +27,8 @@ My long-term research interests lie at the intersection of **Machine Learning, D
 You can find my publications on  
 🧪 **Google Scholar:** <a href='https://scholar.google.com/citations?user={{site.google_scholar_id}}'><strong><span id='total_cit'>Click here</span></strong></a>  
 
+🏫 **Labs:** <a href='/labs/'>Current & Past Labs</a> &nbsp;·&nbsp; 📸 **Gallery:** <a href='/gallery/'>Poster Sessions & Lab Life</a>
+
 ---
 
 <span class='anchor' id='education'></span>
