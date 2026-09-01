@@ -20,7 +20,7 @@ baidu_site_verification  :
 # =========================================
 author:
   name             : "Tingrui Zhang"
-  avatar           : "images/Profile.png"
+  avatar           : "/images/Profile.png"
   bio              : "Master Researcher · Carnegie Mellon University"
   location         : "Pittsburgh, PA, USA"
   googlescholar    : "https://scholar.google.com/citations?user=kTUeIwoAAAAJ"
